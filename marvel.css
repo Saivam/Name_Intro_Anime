@@ -154,6 +154,7 @@ body {
 .logo {
   position: absolute;
   top: 50%;
+  width: max-content;
   left: 50%;
   transform-style: preserve-3d;
   transform: translate(-50%, -50%);
